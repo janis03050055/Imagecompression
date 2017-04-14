@@ -20,3 +20,4 @@ Whenever you commit to this repository, GitHub Pages will run [Janis](https://gi
 2. 更改為代表性顏色。
 3. 進行RLE無失真壓縮(111111000->1 6 0 3)。
 
+PTT說明文件下載：[點我](https://drive.google.com/file/d/0B9Y0oTTJfS1tX0lRVUdDOXo5ek0/view?usp=sharing)
